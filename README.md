@@ -4,12 +4,28 @@
 Gaming-Site brings the traditional Nepali game Langur Burja to the Polygon blockchain, combining classic gameplay with modern betting features. This decentralized application allows players to place bets, engage with various innovative betting strategies, and enjoy a secure and transparent gambling experience.
 
 ## **Features**
+
 - **Traditional Langur Burja Gameplay**: Central betting area for classic bets on six symbols: Monkey, Flag, Fish, Prawn, King, and Tiger.
+  
 - **Innovative Betting Strategies**: Includes combination bets, pattern bets, sequence bets, streak betting, and multiplier dice to enhance gameplay.
+
 - **Progressive Jackpot**: A growing jackpot pool that offers players the chance to win big.
+
 - **Dynamic Odds and Risk Levels**: Real-time adjustments to odds and customizable risk levels for personalized betting experiences.
-- **User-Friendly Interface**: Built with a modern UI/UX approach using React, making the game visually appealing and easy to navigate.
-- **Secure Transactions**: Integration with MetaMask and Ethers.js for seamless and secure fund management.
+
+- **Customizable Betting Strategies**: Create and save betting strategies, with options for auto-betting, stop-loss, stop-win, and bet increments.
+
+- **Live Betting**: Real-time betting with interactive elements allowing adjustments based on live outcomes.
+
+- **Social Betting**: Challenge friends, join community betting pools, and engage with leaderboards and shared strategies.
+
+- **Special Event Bets**: Occasional events with unique rules and enhanced payouts.
+
+- **Referral and Bonus Bets**: Earn extra betting credits through referrals and enjoy bonus bets from loyalty rewards or promotions.
+
+- **In-Game Purchases**: Buy boosts or special items using TDE to enhance betting opportunities or outcomes.
+
+- **Multiplayer Option**: Includes real-time multiplayer mode, private rooms, team bets, and leaderboard competitions for an engaging social experience.
 
 ## **Tech Stack**
 - **Smart Contracts**: Solidity on Polygon
